@@ -1,0 +1,18 @@
+﻿  filters.c
+F:\Admission docs 2020\VIT\Meterial\Set conference\ECG-Aanamoly-detection-using-Parallel-Programming-Open-MP--master\ECGScanner\filters.c(55,34): warning C4029: declared formal parameter list different from definition
+F:\Admission docs 2020\VIT\Meterial\Set conference\ECG-Aanamoly-detection-using-Parallel-Programming-Open-MP--master\ECGScanner\filters.c(86,70): warning C4047: 'function': 'int' differs in levels of indirection from 'char [23]'
+F:\Admission docs 2020\VIT\Meterial\Set conference\ECG-Aanamoly-detection-using-Parallel-Programming-Open-MP--master\ECGScanner\filters.c(86,46): warning C4024: 'run_TestFilter': different types for formal and actual parameter 3
+F:\Admission docs 2020\VIT\Meterial\Set conference\ECG-Aanamoly-detection-using-Parallel-Programming-Open-MP--master\ECGScanner\filters.c(86,75): warning C4020: 'run_TestFilter': too many actual parameters
+F:\Admission docs 2020\VIT\Meterial\Set conference\ECG-Aanamoly-detection-using-Parallel-Programming-Open-MP--master\ECGScanner\filters.c(90,73): warning C4047: 'function': 'int' differs in levels of indirection from 'char [24]'
+F:\Admission docs 2020\VIT\Meterial\Set conference\ECG-Aanamoly-detection-using-Parallel-Programming-Open-MP--master\ECGScanner\filters.c(90,48): warning C4024: 'run_TestFilter': different types for formal and actual parameter 3
+F:\Admission docs 2020\VIT\Meterial\Set conference\ECG-Aanamoly-detection-using-Parallel-Programming-Open-MP--master\ECGScanner\filters.c(90,79): warning C4020: 'run_TestFilter': too many actual parameters
+F:\Admission docs 2020\VIT\Meterial\Set conference\ECG-Aanamoly-detection-using-Parallel-Programming-Open-MP--master\ECGScanner\filters.c(94,70): warning C4047: 'function': 'int' differs in levels of indirection from 'char [23]'
+F:\Admission docs 2020\VIT\Meterial\Set conference\ECG-Aanamoly-detection-using-Parallel-Programming-Open-MP--master\ECGScanner\filters.c(94,46): warning C4024: 'run_TestFilter': different types for formal and actual parameter 3
+F:\Admission docs 2020\VIT\Meterial\Set conference\ECG-Aanamoly-detection-using-Parallel-Programming-Open-MP--master\ECGScanner\filters.c(94,75): warning C4020: 'run_TestFilter': too many actual parameters
+F:\Admission docs 2020\VIT\Meterial\Set conference\ECG-Aanamoly-detection-using-Parallel-Programming-Open-MP--master\ECGScanner\filters.c(98,70): warning C4047: 'function': 'int' differs in levels of indirection from 'char [23]'
+F:\Admission docs 2020\VIT\Meterial\Set conference\ECG-Aanamoly-detection-using-Parallel-Programming-Open-MP--master\ECGScanner\filters.c(98,46): warning C4024: 'run_TestFilter': different types for formal and actual parameter 3
+F:\Admission docs 2020\VIT\Meterial\Set conference\ECG-Aanamoly-detection-using-Parallel-Programming-Open-MP--master\ECGScanner\filters.c(98,75): warning C4020: 'run_TestFilter': too many actual parameters
+F:\Admission docs 2020\VIT\Meterial\Set conference\ECG-Aanamoly-detection-using-Parallel-Programming-Open-MP--master\ECGScanner\filters.c(102,78): warning C4047: 'function': 'int' differs in levels of indirection from 'char [31]'
+F:\Admission docs 2020\VIT\Meterial\Set conference\ECG-Aanamoly-detection-using-Parallel-Programming-Open-MP--master\ECGScanner\filters.c(102,46): warning C4024: 'run_TestFilter': different types for formal and actual parameter 3
+F:\Admission docs 2020\VIT\Meterial\Set conference\ECG-Aanamoly-detection-using-Parallel-Programming-Open-MP--master\ECGScanner\filters.c(102,80): warning C4020: 'run_TestFilter': too many actual parameters
+  ECGScanner.vcxproj -> F:\Admission docs 2020\VIT\Meterial\Set conference\ECG-Aanamoly-detection-using-Parallel-Programming-Open-MP--master\Debug\ECGScanner_P.exe
