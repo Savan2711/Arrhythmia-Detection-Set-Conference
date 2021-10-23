@@ -1,6 +1,17 @@
-# ECG-Aanamoly-detection-using-Parallel-Programming-Open-MP
+# Arrhythmia Detection from ECG Signal using Open-MP
 
-Parallelization of ECG signals using OPENMP Libraries in Visual Stduio …
-Attaching the folder of Analysing ECG signal using Open MP libraries over multiple processor with multiple threads.
-The project is in Visual Studio project.
-The testing files with different sizes of ECG dataset are available in folder "TestFiles"
+The project has been developed in CPP using OPEN-MP Library.
+
+Open-MP library contains functions and variables to build a parallel program or to parallelize the already existing program.
+Development Environment - Visual Studio
+
+The project includes use of many threads to parallelize the execution flow.
+
+Run the Project:
+1. Open the project in Visual Studio
+2. Run the main.c file
+
+Results:
+Signal Value - Arrythmia Class (Tachycardia/Bradycardia/Normal)
+
+The results are visible in command Prompt.
